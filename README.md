@@ -4,7 +4,7 @@ This project consult to crypto coins price
 
 # How to run this project
     $ git clone <this_repo>
-    $ cd criptos
+    $ cd crYptos
     $ npm i
     $ npm run dev
 
