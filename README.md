@@ -2,6 +2,7 @@
   * This project runs on ReactJs v18
   * This project consult to crypto coins price
   * This is a basic project
+  * API REST connection
 ---
 
 # How to run this project
